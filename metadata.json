@@ -1,0 +1,7 @@
+{
+  "name": "IntentLens Agent",
+  "description": "An Intent Intelligence Agent that monitors conversations to detect meaningful shifts in customer intent using advanced pattern recognition and the Gemini 3 Pro model, featuring a premium Liquid Glass UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
